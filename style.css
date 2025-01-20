@@ -537,6 +537,9 @@ footer
     flex-direction: column;
     gap: 25px;
 }
+input{
+    color:white;
+}
 
 .footer-icon
 {
@@ -595,7 +598,7 @@ footer
 
 .footer-subcribe .footer-small-text
 {
-    color: #808080;
+    color: #ffffff;
     font-size: 16px;
 }
 
